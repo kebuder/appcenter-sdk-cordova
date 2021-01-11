@@ -1,6 +1,0 @@
-{
-    "dependencies": {
-        "semver": "^5.5.0",
-        "xml2js": "^0.4.19"
-    }
-}
